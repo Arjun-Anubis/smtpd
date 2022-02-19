@@ -1,0 +1,5 @@
+{
+	"address" : "192.168.1.37",
+	"port" : 25,
+	"testopt1" : "Value one"
+}
